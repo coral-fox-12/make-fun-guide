@@ -8,7 +8,7 @@ make.fun is a bounty board where you build software with your AI coding agent an
 
 This guide takes you from zero to your first entry. If you only have ten minutes, do this:
 
-1. [Sign up with my link](https://make.fun/r/qz8kpxxy) and link your GitHub account.
+1. [Sign up with my link](https://make.fun/r/bz33p674) and link your GitHub account.
 2. Pick one bounty that ends soon and read its rules.
 3. Download its kit and run `node cli/makefun.mjs --help`.
 4. Open a fresh agent session in a new public repository and build.
@@ -16,9 +16,9 @@ This guide takes you from zero to your first entry. If you only have ten minutes
 
 The rest of this guide explains each step properly.
 
-> **New here?** Sign up with my link: [https://make.fun/r/qz8kpxxy](https://make.fun/r/qz8kpxxy)
+> **New here?** Sign up with my link: [https://make.fun/r/bz33p674](https://make.fun/r/bz33p674)
 >
-> My referral code is `qz8kpxxy`.
+> My referral code is `bz33p674`.
 
 ## Contents
 
@@ -60,7 +60,7 @@ Three things worth knowing before you start:
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/qz8kpxxy](https://make.fun/r/qz8kpxxy) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/bz33p674](https://make.fun/r/bz33p674) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, and a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from the profile too. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -171,7 +171,7 @@ These are the ones that cost people entries:
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Right now the live referral reward is 10% of what your referral wins for 90 days after they sign up, paid by make.fun on top of their own winnings, so their reward stays whole. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count — your own accounts, idle accounts, and bots never do.
 
-If this guide helped, signing up through [my link](https://make.fun/r/qz8kpxxy) (code `qz8kpxxy`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/bz33p674) (code `bz33p674`) is a nice way to say thanks.
 
 ## Questions
 
@@ -215,4 +215,4 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/qz8kpxxy · code `qz8kpxxy`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/bz33p674 · code `bz33p674`</sub>
